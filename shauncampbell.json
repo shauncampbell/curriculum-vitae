@@ -10,7 +10,8 @@
 			"darkest": "#17252a",
 			"darker": "#2b7278",
 			"normal": "#3aafa9"
-		}
+		},
+		"profilePicture": "https://raw.githubusercontent.com/shauncampbell/curriculum-vitae/master/profile.jpeg"
 	},
 	"content": {
 		"forename": "Shaun",
