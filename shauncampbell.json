@@ -1,0 +1,75 @@
+{
+	"forename": "Shaun",
+	"surname": "Campbell",
+	"contacts": {
+		"address": {
+			"street": "11 Juanita Drive",
+			"city": "Hamilton",
+			"province": "Ontario",
+			"country": "Canada",
+			"postalcode": "L9C 2G2"
+		},
+		"telephone": [
+			{ 
+				"type": "mobile", 
+				"number": {
+					"country": "1",
+					"area": "289",
+					"number": "7992206"
+				}
+			}
+		],
+		"links": [
+			{ "type": "github", "value": "shauncampbell" }
+		],
+		"email": [
+			{ "type": "personal", "recipient": "mail", "domain": "shaun.scot" }
+		],
+	},
+	"experience": [
+		{
+			"title": "Senior Consulting Engineer",
+			"employer": {
+				"name": "MongoDB",
+				"location": "London, UK"
+			},
+			"startDate": "March 2018",
+			"mainDuties": [
+				"Started as a Consulting Engineer and progressed to Senior level in March 2019.",
+				"Working with customers from many different industries to design full stack systems from the ground up for best performance and scale.",
+				"Deliver both structured training courses and facilitate general transfer of knowledge during consulting engagements.",
+				"Learning new technologies quickly with a view to providing sound integration advice. ",
+				"Performing root cause analysis for complex performance issues in distributed systems."
+				"Providing technical leadership to customers during large migration projects."
+			]
+		},
+		{
+			"title": "Senior Software Engineer",
+			"employer": {
+				"name": "SAS",
+				"location": "Glasgow, UK"
+			},
+			"startDate": "July 2011",
+			"endDate": "March 2018",
+			"mainDuties": [
+				"Started initially as an intern, then full-time as a Graduate Software Engineer before progressing to Senior level.",
+				"Worked on development of a Java-based integration layer between a proprietary NoSQL database and Oracle for a large UK police force.",
+				"Championed use of Git, code reviews and dev-ops build methodologies for the team.",
+				"Primarily server-side development but worked as an extra AngularJS resource when required.",
+				"Working and co-ordinating as part of a large, globally distributed team."
+			]
+		},
+	],
+	"education": [
+		{
+			"title": "BSc (Hons) Software Engineering",
+			"startDate": "October 2006",
+			"endDate": "June 2011",
+			"institution": {
+				"name": "University of Glasgow",
+				"location": "Glasgow, UK"
+			},
+			"note": "Equivalent to a Bachelors of Software Engineering (4 years) degree as accredited by World Education Services, Toronto"
+		}
+	]
+}
