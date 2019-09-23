@@ -53,6 +53,9 @@
 					"Learning new technologies quickly with a view to providing sound integration advice. ",
 					"Performing root cause analysis for complex performance issues in distributed systems.",
 					"Providing technical leadership to customers during large migration projects."
+				],
+				"skills": [
+					"MongoDB", "Java", "C#", "DevOps"
 				]
 			},
 			{
@@ -69,6 +72,9 @@
 					"Championed use of Git, code reviews and dev-ops build methodologies for the team.",
 					"Primarily server-side development but worked as an extra AngularJS resource when required.",
 					"Working and co-ordinating as part of a large, globally distributed team."
+				],
+				"skills": [
+					"Java", "C", "Akka", "Scala", "SpringBoot"
 				]
 			}
 		],
@@ -80,7 +86,9 @@
 				"name": "University of Glasgow",
 				"location": "Glasgow, UK"
 			},
-			"note": "Equivalent to a Bachelors of Software Engineering (4 years) degree as accredited by World Education Services, Toronto"
+			"notes": [
+				"Equivalent to a Bachelors of Software Engineering (4 years) degree as accredited by World Education Services, Toronto"
+			]
 		}]
 	}
 }
