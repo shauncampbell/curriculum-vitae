@@ -58,12 +58,12 @@
 				},
 				"startDate": "March 2018",
 				"mainDuties": [
-					"Started as a Consulting Engineer and progressed to Senior level in March 2019.",
-					"Working with customers from many different industries to design full stack systems from the ground up for best performance and scale.",
-					"Deliver both structured training courses and facilitate general transfer of knowledge during consulting engagements.",
-					"Learning new technologies quickly with a view to providing sound integration advice. ",
+					"Starting as a Consulting Engineer and progressing to Senior level in March 2019.",
+					"Working with customers across Europe from many different industries to design full stack systems from the ground up for best performance and scale.",
+					"Delivering both structured training courses and facilitating general transfer of knowledge during consulting engagements.",
+					"Learning new technologies quickly with a view to putting knowledge into practice quickly.",
 					"Performing root cause analysis for complex performance issues in distributed systems.",
-					"Providing technical leadership to customers during large migration projects."
+					"Providing technical leadership to customers during large migration and integration projects."
 				],
 				"skills": [
 					"Ansible", "Bash", "Java", "Javascript", 
@@ -79,10 +79,12 @@
 				"startDate": "July 2011",
 				"endDate": "March 2018",
 				"mainDuties": [
-					"Started initially as an intern, then full-time as a Graduate Software Engineer before progressing to Senior level.",
-					"Worked on development of a Java-based integration layer between a proprietary NoSQL database and Oracle for a large UK police force.",
-					"Championed use of Git, code reviews and dev-ops build methodologies for the team.",
-					"Primarily server-side development but worked as an extra AngularJS resource when required.",
+					"Starting as an intern, returning as a Graduate and progressing to onwards to Senior level over 5 years.",
+					"Working on development of a Java-based integration layer between a proprietary NoSQL database and an Oracle RDBMS for a large UK police force.",
+					"Providing on-site upgrade support and debugging for collaborative customer projects.",
+					"Championing use of source control, code reviews and dev-ops build methodologies within a growing team.",
+					"Act as server development lead, providing feedback and input to Product Management and UI development teams.",
+					"Primarily working with Java server-side components but providing support as additional C and AngularJS resources as required.",
 					"Working and co-ordinating as part of a large, globally distributed team."
 				],
 				"skills": [
