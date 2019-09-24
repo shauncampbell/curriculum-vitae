@@ -39,6 +39,10 @@
 				"domain": "shaun.scot"
 			}]
 		},
+		"about": [
+			"I am an experienced polyglot software engineer with a strong background in designing and building scalable system architectures. Having spent time both as a developer and as a professional services consultant, I bring a unique customer-focused perspective to the table. My strong analytical skills enable me to efficiently solve complex development problems.",
+			"As a newcomer to Canada, I am seeking an exciting new software development opportunity where I can make a meaningful positive impact on the development team."
+		],
 		"experience": [{
 				"title": "Senior Consulting Engineer",
 				"employer": {
