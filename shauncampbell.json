@@ -74,7 +74,7 @@
 				"title": "Senior Software Engineer",
 				"employer": {
 					"name": "SAS",
-					"location": "Glasgow, UK"
+					"location": "Glasgow, Scotland"
 				},
 				"startDate": "July 2011",
 				"endDate": "March 2018",
@@ -94,17 +94,32 @@
 				]
 			}
 		],
-		"education": [{
-			"title": "BSc (Hons) Software Engineering",
-			"startDate": "October 2006",
-			"endDate": "June 2011",
-			"institution": {
-				"name": "University of Glasgow",
-				"location": "Glasgow, UK"
+		"education": [
+			{
+				"title": "BSc (Hons) Software Engineering",
+				"startDate": "October 2006",
+				"endDate": "June 2011",
+				"institution": {
+					"name": "University of Glasgow",
+					"location": "Glasgow, Scotland"
+				},
+				"notes": [
+					"Equivalent to a Bachelors of Software Engineering (4 years) degree as accredited by World Education Services, Toronto"
+				]
 			},
-			"notes": [
-				"Equivalent to a Bachelors of Software Engineering (4 years) degree as accredited by World Education Services, Toronto"
-			]
-		}]
+			{
+				"title": "French A1",
+				"startDate": "October 2014",
+				"endDate": "March 2015",
+				"institution": {
+					"name": "University of Strathclyde",
+					"location": "Glasgow, Scotland"
+				},
+				"notes": [
+					"Evening classes for a period of 20 weeks",
+					"French taught to the A1 level of the Common European Framework of Reference (CEFR)"
+				]
+			}
+		]
 	}
 }
