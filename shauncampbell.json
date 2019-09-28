@@ -18,8 +18,10 @@
 		"surname": "Campbell",
 		"contacts": {
 			"address": {
+				"street": "11 Juanita Drive",
 				"city": "Hamilton",
-				"province": "ON"
+				"province": "ON",
+				"postalCode": "L9C 2G2"
 			},
 			"telephone": [{
 				"type": "mobile",
@@ -32,6 +34,14 @@
 			"links": [{
 				"type": "github",
 				"value": "shauncampbell"
+			},
+			{
+				"type": "linkedin",
+				"value": "shauncampbell89"
+			},
+			{
+				"type": "www",
+				"value": "shaun.scot"
 			}],
 			"email": [{
 				"type": "personal",
