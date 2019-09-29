@@ -127,10 +127,7 @@
 				"institution": {
 					"name": "University of Glasgow",
 					"location": "Glasgow, Scotland"
-				},
-				"notes": [
-					"Equivalent to a Bachelors of Software Engineering (4 years) degree as accredited by World Education Services, Toronto"
-				]
+				}
 			}
 		],
 		"languages": [
