@@ -83,17 +83,15 @@
 			{
 				"title": "Senior Software Engineer",
 				"employer": {
-					"name": "SAS",
+					"name": "SAS (formerly Memex Technology Ltd)",
 					"location": "Glasgow, Scotland"
 				},
-				"startDate": "July 2011",
+				"startDate": "February 2015",
 				"endDate": "March 2018",
 				"mainDuties": [
-					"Starting as an intern, returning as a Graduate and progressing to onwards to Senior level over 5 years.",
-					"Working on development of a Java-based integration layer between a proprietary NoSQL database and an Oracle RDBMS for a large UK police force.",
-					"Providing on-site upgrade support and debugging for collaborative customer projects.",
+					"Acting as server development lead for a operations tool for managing streaming analytical models.",
+					"Providing feedback and input to Product Management and UI development teams.",
 					"Championing use of source control, code reviews and dev-ops build methodologies within a growing team.",
-					"Act as server development lead, providing feedback and input to Product Management and UI development teams.",
 					"Primarily working with Java server-side components but providing support as additional C and AngularJS resources as required.",
 					"Working and co-ordinating as part of a large, globally distributed team."
 				],
@@ -101,6 +99,25 @@
 					"Akka", "AngularJS", "Bash", "C", "Docker", 
 					"Git", "Java", "Jenkins", "Oracle", "PostgreSQL",  
 					"Spring"  
+				]
+			},
+			{
+				"title": "Software Engineer",
+				"employer": {
+					"name": "Memex Technology Ltd",
+					"location": "East Kilbride, Scotland"
+				},
+				"startDate": "July 2011",
+				"endDate": "February 2015",
+				"mainDuties": [
+					"Starting as an intern, returning as a graduate and progressing to Software Engineer after 1 year.",
+					"Working on development of a Java-based integration layer between a proprietary NoSQL database and an Oracle RDBMS for a large UK police force.",
+					"Providing on-site upgrade support and debugging for collaborative customer projects.",
+					"Providing development support to performance testing team including development of both Java and C# based performance testing frameworks.",
+					"Lead role in design of high availability architecture including evaluation of multiple cluster file systems and Oracle RAC."
+				],
+				"skills": [
+					"Bash", "C", "C#", "Java", "Oracle"
 				]
 			}
 		],
