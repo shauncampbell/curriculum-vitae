@@ -50,11 +50,10 @@
 			}]
 		},
 		"about": [
-			"I am an experienced polyglot software engineer with a background in designing and building scalable system architectures. I have strong analytical skills and enjoy learning new frameworks and technologies.",
-			"I am seeking an exciting new software development opportunity where I can make a meaningful and positive impact on the development team."
+			"I am an experienced polyglot software engineer with a background in designing and building scalable system architectures. I have strong analytical skills and enjoy learning new frameworks and technologies. I am seeking an exciting new software development opportunity where I can make a meaningful and positive impact on the development team."
 		],
 		"skills": [
-			{ "category": "Programming Languages", "skills": [ "C", "C#", "Bash", "CSS/HTML", "Go", "Java", "Javascript", "Python" ]},
+			{ "category": "Programming Languages", "skills": [ "C", "C#", "Bash", "CSS/HTML", "Java", "Javascript", "Python" ]},
 			{ "category": "Frameworks", "skills": [ "Akka", "AngularJS", "Spring" ]},
 			{ "category": "Databases", "skills": [ "MongoDB", "MySQL", "Oracle", "PostgreSQL" ]},
 			{ "category": "DevOps", "skills": [ "Ansible", "Docker", "Git", "Jenkins", "Linux", "Puppet", "Vagrant" ]},
@@ -73,7 +72,8 @@
 					"Delivering both structured training courses and facilitating general transfer of knowledge during consulting engagements.",
 					"Learning new technologies quickly with a view to putting knowledge into practice quickly.",
 					"Performing root cause analysis for complex performance issues in distributed systems.",
-					"Providing technical leadership to customers during large migration and integration projects."
+					"Providing technical leadership to customers during large migration and integration projects.",
+					"Assisting customers in diagnosing MongoDB performance issues across a range of programming languages such as C#, Go, Java, Javascript, Python and Ruby."
 				],
 				"skills": [
 					"Ansible", "Bash", "Java", "Javascript", "Linux", "MongoDB", "Puppet", "Python"
