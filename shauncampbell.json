@@ -50,8 +50,8 @@
 			}]
 		},
 		"about": [
-			"I am an experienced polyglot software engineer with a strong background in designing and building scalable system architectures. Having spent time both as a developer and as a professional services consultant, I bring a unique customer-focused perspective to the table. My strong analytical skills enable me to efficiently solve complex development problems.",
-			"I am seeking a return to a development environment and an exciting new software development opportunity where I can make a meaningful positive impact on the development team."
+			"I am an experienced polyglot software engineer with a background in designing and building scalable system architectures. I have strong analytical skills and enjoy learning new frameworks and technologies.",
+			"I am seeking an exciting new software development opportunity where I can make a meaningful and positive impact on the development team."
 		],
 		"skills": [
 			{ "category": "Programming Languages", "skills": [ "C", "C#", "Bash", "CSS/HTML", "Go", "Java", "Javascript", "Python" ]},
@@ -108,7 +108,7 @@
 				"startDate": "July 2011",
 				"endDate": "February 2015",
 				"mainDuties": [
-					"Starting as an intern, returning as a graduate and progressing to Software Engineer after 1 year.",
+					"Starting as an intern, returning as a graduate and progressing to Software Engineer.",
 					"Working on development of a Java-based integration layer between a proprietary NoSQL database and an Oracle RDBMS for a large UK police force.",
 					"Providing on-site upgrade support and debugging for collaborative customer projects.",
 					"Providing development support to performance testing team including development of both Java and C# based performance testing frameworks.",
@@ -136,10 +136,10 @@
 			{ "language": "German", "note": "European Language Framework level A1." }
 		],
 		"hobbies": [
-			"Running - regularly training for 10k and half marathons. Ran the Dublin Marathon in 2017.",
-			"Powerboating - completed RYA Powerboating level 2 course in 2019.",
-			"Travelling - regularly travel overseas to new places.",
-			"Home Automation - enjoy embarking on new home automation projects."
+			{ "hobby": "Running", "description": "regularly training for 10k and half marathons. Ran the Dublin Marathon in 2017." },
+			{ "hobby": "Powerboating", "description": "completed RYA Powerboating level 2 course in 2019." },
+			{ "hobby": "Travelling", "description": "regularly travel overseas to new places." },
+			{ "hobby": "Home Automation", "description": "enjoy embarking on new home automation projects." }
 		]
 	}
 }
