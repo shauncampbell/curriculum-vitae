@@ -54,9 +54,10 @@
 		],
 		"skills": [
 			{ "category": "Programming Languages", "skills": [ "C", "C#", "Bash", "CSS/HTML", "Java", "Javascript", "Python" ]},
+			{ "category": "Development Skills", "skills": [ "Code Reviews", "Performance Testing", "Requirements Engineering", "Test Driven Development (TDD)" ]}
 			{ "category": "Frameworks", "skills": [ "Akka", "AngularJS", "Spring" ]},
 			{ "category": "Databases", "skills": [ "MongoDB", "MySQL", "Oracle", "PostgreSQL" ]},
-			{ "category": "DevOps", "skills": [ "Ansible", "Docker", "Git", "Jenkins", "Linux", "Puppet", "Vagrant" ]},
+			{ "category": "DevOps", "skills": [ "Ansible", "Docker", "Git", "Jenkins", "Linux", "Puppet", "Sonarqube", "Vagrant" ]},
 			{ "category": "Customer Focused Skills", "skills": [ "Root-Cause Analysis", "Customer Training", "Technical Documentation/Playbooks" ]}
 		],
 		"experience": [{
@@ -76,7 +77,7 @@
 					"Assisting customers in diagnosing MongoDB performance issues across a range of programming languages such as C#, Go, Java, Javascript, Python and Ruby."
 				],
 				"skills": [
-					"Ansible", "Bash", "Java", "Javascript", "Linux", "MongoDB", "Puppet", "Python"
+					"Ansible", "Bash", "Java", "Javascript", "Linux", "MongoDB", "Performance Tuning", "Puppet", "Schema Design", "Python"
 				]
 			},
 			{
@@ -89,14 +90,16 @@
 				"endDate": "March 2018",
 				"mainDuties": [
 					"Acting as server development lead for a operations tool for managing streaming analytical models.",
-					"Managed builds and wider dev-ops infrastructure for the team.",
+					"Managing builds and wider dev-ops infrastructure for the team.",
 					"Providing feedback and input to Product Management and UI development teams.",
+					"Ported an initial prototype application from Scala to Java with the Akka framework",
 					"Championing use of source control, code reviews and dev-ops build methodologies within a growing team.",
-					"Primarily working with Java server-side components but providing support as an additional AngularJS resource as required.",
-					"Working and co-ordinating as part of a large, globally distributed team."
+					"Primarily working with Java server-side and REST API components but providing support as an additional AngularJS resource as required.",
+					"Working and co-ordinating as part of a large, globally distributed team.",
+					"Designing microservice architecture and managing deployment strategy."
 				],
 				"skills": [
-					"Akka", "AngularJS", "Bash", "C", "Docker", "Git", "Gradle", "Java", "Jenkins", "Spring", "Vagrant"  
+					"Akka", "AngularJS", "Bash", "C", "Docker", "Git", "Gradle", "Java", "Jenkins", "JUnit", "REST", "Spring", "Test Driven Development (TDD)", "Vagrant"  
 				]
 			},
 			{
@@ -115,7 +118,7 @@
 					"Lead role in design of high availability architecture including evaluation of multiple cluster file systems and Oracle RAC."
 				],
 				"skills": [
-					"Bash", "C", "C#", "Java", "Oracle", "PostgreSQL"
+					"Bash", "C", "C#", "Java", "Oracle", "Performance Testing", "PostgreSQL"
 				]
 			}
 		],
