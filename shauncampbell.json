@@ -54,7 +54,7 @@
 		],
 		"skills": [
 			{ "category": "Programming Languages", "skills": [ "C", "C#", "Bash", "CSS/HTML", "Java", "Javascript", "Python" ]},
-			{ "category": "Development Skills", "skills": [ "Code Reviews", "Performance Testing", "Requirements Engineering", "Test Driven Development (TDD)" ]}
+			{ "category": "Development Skills", "skills": [ "Code Reviews", "Performance Testing", "Requirements Engineering", "Test Driven Development (TDD)" ]},
 			{ "category": "Frameworks", "skills": [ "Akka", "AngularJS", "Spring" ]},
 			{ "category": "Databases", "skills": [ "MongoDB", "MySQL", "Oracle", "PostgreSQL" ]},
 			{ "category": "DevOps", "skills": [ "Ansible", "Docker", "Git", "Jenkins", "Linux", "Puppet", "Sonarqube", "Vagrant" ]},
