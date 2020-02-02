@@ -60,13 +60,15 @@
 			{ "category": "DevOps", "skills": [ "Ansible", "Docker", "Git", "Jenkins", "Linux", "Puppet", "Sonarqube", "Vagrant" ]},
 			{ "category": "Customer Focused Skills", "skills": [ "Root-Cause Analysis", "Customer Training", "Technical Documentation/Playbooks" ]}
 		],
-		"experience": [{
+		"experience": [
+			{
 				"title": "Senior Consulting Engineer",
 				"employer": {
 					"name": "MongoDB",
 					"location": "London, UK"
 				},
 				"startDate": "March 2018",
+				"endDate": "February 2020",
 				"mainDuties": [
 					"Starting as a Consulting Engineer and progressing to Senior level in March 2019.",
 					"Working with customers across Europe from many different industries to design full stack systems from the ground up for best performance and scale.",
